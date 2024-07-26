@@ -24,7 +24,7 @@ $users = mysqli_fetch_all($result, MYSQLI_ASSOC);
         <br>
 
         <label for="">Address : </label>
-        <input type="text" name="adress" placeholder = "Enter adress">
+        <input type="text" name="address" placeholder = "Enter adress">
         <br>
         <br>
 

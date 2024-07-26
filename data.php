@@ -1,7 +1,7 @@
 <?php
 
 $name = $_POST['name'];
-$address = $_POST['adress'];
+$address = $_POST['address'];
 $pincodce = $_POST['pincode'];
 $state = $_POST['state'];
 $city = $_POST['city'];
